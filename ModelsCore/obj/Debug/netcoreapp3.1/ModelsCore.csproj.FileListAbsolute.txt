@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\WebApplication1\ModelsCore\bin\Debug\netcoreapp3.1\ModelsCore.deps.json
+C:\Users\User\source\repos\WebApplication1\ModelsCore\bin\Debug\netcoreapp3.1\ModelsCore.dll
+C:\Users\User\source\repos\WebApplication1\ModelsCore\obj\Debug\netcoreapp3.1\ModelsCore.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WebApplication1\ModelsCore\obj\Debug\netcoreapp3.1\ModelsCore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WebApplication1\ModelsCore\obj\Debug\netcoreapp3.1\ModelsCore.AssemblyInfo.cs
+C:\Users\User\source\repos\WebApplication1\ModelsCore\bin\Debug\netcoreapp3.1\ModelsCore.pdb
+C:\Users\User\source\repos\WebApplication1\ModelsCore\obj\Debug\netcoreapp3.1\ModelsCore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WebApplication1\ModelsCore\obj\Debug\netcoreapp3.1\ModelsCore.dll
+C:\Users\User\source\repos\WebApplication1\ModelsCore\obj\Debug\netcoreapp3.1\ModelsCore.pdb
